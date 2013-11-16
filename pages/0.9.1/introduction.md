@@ -271,4 +271,4 @@ Gradleでは...
 [EasyB]:http://www.easyb.org/
 [テストチャプター]:
 [GebのMavenリポジトリ]:http://mvnrepository.com/artifact/org.gebish/geb-core
-[Build Integrations]
+[Build Integrations]:

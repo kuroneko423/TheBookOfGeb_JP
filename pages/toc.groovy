@@ -14,3 +14,6 @@
     "0.9.1/introduction.md#1.2"(title: "1.2 Pageオブジェクトパターン")
     "0.9.1/introduction.md#1.3"(title: "1.3 jQueryライクAPI")
 }
+	
+"0.9.1/theBrowser.md"(title: "2. The Browser"){
+}
