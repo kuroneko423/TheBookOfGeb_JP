@@ -11,9 +11,9 @@ GVMのgaidenを利用したものです。
 ## 使い方
 ＜現時点ではtoc.groovyを整理していないのでまだうまく目次が作成できません＞
 
-+下記のコマンドでhtmlファイルを作成する
-<pre><code>
-$ gaiden build
++ 下記のコマンドでhtmlファイルを作成する
+
+<pre><code>$ gaiden build
 </code></pre>
 
 [The Book of Geb]:http://www.gebish.org/
